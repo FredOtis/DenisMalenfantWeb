@@ -1,0 +1,7 @@
+/* CSS FOR ONLY IE6 */
+
+.logo{background:url(../img/logo_black.png) no-repeat left top !important;}
+#bigContainer #navContainer{	background:black !important;}
+#bigContainer #navContainer .nav{background:black !important;}
+#bigContainer #contentContainer .gallerie .gal-row .picture{padding:0px;background:none;}
+#bigContainer #contentContainer .gallerie .gal-row .picture img{width:161px !important;height:120px !important;}
